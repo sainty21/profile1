@@ -18,10 +18,14 @@ p{width: 45%}
 }
 
 @media (max-width:991px){
+    p{text-align: justify;
+        Width:91%;}
+   body{background-color:aliceblue;}
 
-      .two{padding-left: 66px}
+      .two{padding-left:0}
       .slides{width: 225px;
                 height:225px;
       }
+    .one{display:none;}
 
     }
